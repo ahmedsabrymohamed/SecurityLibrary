@@ -1,0 +1,31 @@
+C:\Users\fcis_\Google Drive (fcis.cs.course@gmail.com)\Students\StartupCode\SecurityPackageTest\bin\Debug\SecurityPackageTest.dll
+C:\Users\fcis_\Google Drive (fcis.cs.course@gmail.com)\Students\StartupCode\SecurityPackageTest\bin\Debug\SecurityPackageTest.pdb
+C:\Users\fcis_\Google Drive (fcis.cs.course@gmail.com)\Students\StartupCode\SecurityPackageTest\bin\Debug\SecurityLibrary.dll
+C:\Users\fcis_\Google Drive (fcis.cs.course@gmail.com)\Students\StartupCode\SecurityPackageTest\bin\Debug\SecurityLibrary.pdb
+C:\Users\fcis_\Google Drive (fcis.cs.course@gmail.com)\Students\StartupCode\SecurityPackageTest\obj\Debug\SecurityPackageTest.csprojResolveAssemblyReference.cache
+C:\Users\fcis_\Google Drive (fcis.cs.course@gmail.com)\Students\StartupCode\SecurityPackageTest\obj\Debug\SecurityPackageTest.dll
+C:\Users\fcis_\Google Drive (fcis.cs.course@gmail.com)\Students\StartupCode\SecurityPackageTest\obj\Debug\SecurityPackageTest.pdb
+C:\Users\Eng.Mostafa\Desktop\Lec 5\second semester\Second Semester\Computer Security\StartupCode\SecurityPackageTest\bin\Debug\SecurityPackageTest.dll
+C:\Users\Eng.Mostafa\Desktop\Lec 5\second semester\Second Semester\Computer Security\StartupCode\SecurityPackageTest\bin\Debug\SecurityPackageTest.pdb
+C:\Users\Eng.Mostafa\Desktop\Lec 5\second semester\Second Semester\Computer Security\StartupCode\SecurityPackageTest\bin\Debug\SecurityLibrary.dll
+C:\Users\Eng.Mostafa\Desktop\Lec 5\second semester\Second Semester\Computer Security\StartupCode\SecurityPackageTest\bin\Debug\SecurityLibrary.pdb
+C:\Users\Eng.Mostafa\Desktop\Lec 5\second semester\Second Semester\Computer Security\StartupCode\SecurityPackageTest\obj\Debug\SecurityPackageTest.csprojResolveAssemblyReference.cache
+C:\Users\Eng.Mostafa\Desktop\Lec 5\second semester\Second Semester\Computer Security\StartupCode\SecurityPackageTest\obj\Debug\SecurityPackageTest.csproj.CoreCompileInputs.cache
+C:\Users\Eng.Mostafa\Desktop\Lec 5\second semester\Second Semester\Computer Security\StartupCode\SecurityPackageTest\obj\Debug\SecurityPackageTest.dll
+C:\Users\Eng.Mostafa\Desktop\Lec 5\second semester\Second Semester\Computer Security\StartupCode\SecurityPackageTest\obj\Debug\SecurityPackageTest.pdb
+C:\Users\Eng.Mostafa\Desktop\Lec 5\second semester\Second Semester\Computer Security\StartupCode\code\secuirty\SecurityPackageTest\bin\Debug\SecurityPackageTest.dll
+C:\Users\Eng.Mostafa\Desktop\Lec 5\second semester\Second Semester\Computer Security\StartupCode\code\secuirty\SecurityPackageTest\bin\Debug\SecurityPackageTest.pdb
+C:\Users\Eng.Mostafa\Desktop\Lec 5\second semester\Second Semester\Computer Security\StartupCode\code\secuirty\SecurityPackageTest\bin\Debug\SecurityLibrary.dll
+C:\Users\Eng.Mostafa\Desktop\Lec 5\second semester\Second Semester\Computer Security\StartupCode\code\secuirty\SecurityPackageTest\bin\Debug\SecurityLibrary.pdb
+C:\Users\Eng.Mostafa\Desktop\Lec 5\second semester\Second Semester\Computer Security\StartupCode\code\secuirty\SecurityPackageTest\obj\Debug\SecurityPackageTest.csprojResolveAssemblyReference.cache
+C:\Users\Eng.Mostafa\Desktop\Lec 5\second semester\Second Semester\Computer Security\StartupCode\code\secuirty\SecurityPackageTest\obj\Debug\SecurityPackageTest.csproj.CoreCompileInputs.cache
+C:\Users\Eng.Mostafa\Desktop\Lec 5\second semester\Second Semester\Computer Security\StartupCode\code\secuirty\SecurityPackageTest\obj\Debug\SecurityPackageTest.dll
+C:\Users\Eng.Mostafa\Desktop\Lec 5\second semester\Second Semester\Computer Security\StartupCode\code\secuirty\SecurityPackageTest\obj\Debug\SecurityPackageTest.pdb
+C:\Users\Eng.Mostafa\Desktop\Lec 5\second semester\Second Semester\Computer Security\securit-master\SecurityPackageTest\bin\Debug\SecurityPackageTest.dll
+C:\Users\Eng.Mostafa\Desktop\Lec 5\second semester\Second Semester\Computer Security\securit-master\SecurityPackageTest\bin\Debug\SecurityPackageTest.pdb
+C:\Users\Eng.Mostafa\Desktop\Lec 5\second semester\Second Semester\Computer Security\securit-master\SecurityPackageTest\bin\Debug\SecurityLibrary.dll
+C:\Users\Eng.Mostafa\Desktop\Lec 5\second semester\Second Semester\Computer Security\securit-master\SecurityPackageTest\bin\Debug\SecurityLibrary.pdb
+C:\Users\Eng.Mostafa\Desktop\Lec 5\second semester\Second Semester\Computer Security\securit-master\SecurityPackageTest\obj\Debug\SecurityPackageTest.csprojResolveAssemblyReference.cache
+C:\Users\Eng.Mostafa\Desktop\Lec 5\second semester\Second Semester\Computer Security\securit-master\SecurityPackageTest\obj\Debug\SecurityPackageTest.csproj.CoreCompileInputs.cache
+C:\Users\Eng.Mostafa\Desktop\Lec 5\second semester\Second Semester\Computer Security\securit-master\SecurityPackageTest\obj\Debug\SecurityPackageTest.dll
+C:\Users\Eng.Mostafa\Desktop\Lec 5\second semester\Second Semester\Computer Security\securit-master\SecurityPackageTest\obj\Debug\SecurityPackageTest.pdb
