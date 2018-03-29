@@ -42,7 +42,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AES\AES.cs" />
+    <Compile Include="AES\AES_Constants.cs" />
     <Compile Include="AES\ExtendedEuclid.cs" />
+    <Compile Include="DES\DES_Constants.cs" />
     <Compile Include="MainAlgorithms\Columnar.cs" />
     <Compile Include="DES\DES.cs" />
     <Compile Include="DES\TripleDES.cs" />

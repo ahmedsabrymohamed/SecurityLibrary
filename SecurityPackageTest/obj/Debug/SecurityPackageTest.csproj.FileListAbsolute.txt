@@ -29,3 +29,10 @@ C:\Users\Eng.Mostafa\Desktop\Lec 5\second semester\Second Semester\Computer Secu
 C:\Users\Eng.Mostafa\Desktop\Lec 5\second semester\Second Semester\Computer Security\securit-master\SecurityPackageTest\obj\Debug\SecurityPackageTest.csproj.CoreCompileInputs.cache
 C:\Users\Eng.Mostafa\Desktop\Lec 5\second semester\Second Semester\Computer Security\securit-master\SecurityPackageTest\obj\Debug\SecurityPackageTest.dll
 C:\Users\Eng.Mostafa\Desktop\Lec 5\second semester\Second Semester\Computer Security\securit-master\SecurityPackageTest\obj\Debug\SecurityPackageTest.pdb
+E:\D\University\4\securityrep\SecurityPackageTest\bin\Debug\SecurityPackageTest.dll
+E:\D\University\4\securityrep\SecurityPackageTest\bin\Debug\SecurityPackageTest.pdb
+E:\D\University\4\securityrep\SecurityPackageTest\bin\Debug\SecurityLibrary.dll
+E:\D\University\4\securityrep\SecurityPackageTest\bin\Debug\SecurityLibrary.pdb
+E:\D\University\4\securityrep\SecurityPackageTest\obj\Debug\SecurityPackageTest.csprojResolveAssemblyReference.cache
+E:\D\University\4\securityrep\SecurityPackageTest\obj\Debug\SecurityPackageTest.dll
+E:\D\University\4\securityrep\SecurityPackageTest\obj\Debug\SecurityPackageTest.pdb

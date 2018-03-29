@@ -21,3 +21,7 @@ C:\Users\Eng.Mostafa\Desktop\Lec 5\second semester\Second Semester\Computer Secu
 C:\Users\Eng.Mostafa\Desktop\Lec 5\second semester\Second Semester\Computer Security\securit-master\SecurityLibrary\obj\Debug\SecurityLibrary.csproj.CoreCompileInputs.cache
 C:\Users\Eng.Mostafa\Desktop\Lec 5\second semester\Second Semester\Computer Security\securit-master\SecurityLibrary\obj\Debug\SecurityLibrary.dll
 C:\Users\Eng.Mostafa\Desktop\Lec 5\second semester\Second Semester\Computer Security\securit-master\SecurityLibrary\obj\Debug\SecurityLibrary.pdb
+E:\D\University\4\securityrep\SecurityLibrary\bin\Debug\SecurityLibrary.dll
+E:\D\University\4\securityrep\SecurityLibrary\bin\Debug\SecurityLibrary.pdb
+E:\D\University\4\securityrep\SecurityLibrary\obj\Debug\SecurityLibrary.dll
+E:\D\University\4\securityrep\SecurityLibrary\obj\Debug\SecurityLibrary.pdb
